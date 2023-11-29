@@ -1,5 +1,5 @@
 
-# Aplicações com funções baseados em conexão a bancos de dadps, desenvolvido em Python, utilizando sqlAlquemy e MongoDB
+# Aplicações com funções baseadas em conexão a bancos de dados, desenvolvido em Python, utilizando sqlAlquemy e MongoDB
 
 Esta Aplicação gera simulações de entradas e saidas de informações em banco de dados relacionais e NoSql gerais. 
 
